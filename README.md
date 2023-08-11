@@ -1,1 +1,1 @@
-node:lts-alpine image with pnpm
+node:lts-alpine image with pnpm, nrm
